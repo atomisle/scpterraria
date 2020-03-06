@@ -1,0 +1,4 @@
+displayName = SCP Terraria
+author = Atom Isle Development
+version = 0.0.11
+homepage = https://discordapp.com/invite/AAcZbr6
