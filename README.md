@@ -9,4 +9,19 @@ Feel free to look into any of the SCP: Terraria and Atom Isle platforms at the b
 # Next Planned Update
 We have several planned updates and features to be added to SCP: Terraria. 
 + Pre-alpha v0.0.12:
-  - test
+  - SCP-106
+  - Tesla Gate
+  - Mini HID Gun
+  - Femur Breaker
+  - SCP-914
+  - SCP-079
+  - SCP-013
+  - Gravity Plates
+  - Key Cards
+  - Wanderer's Library Gear
+  - Menu Music (TBD)
++ Pre-alpha v0.0.13
+  - Serpent's Hand Gear
+  - More Music
+  - SCP-049 
+  - SCP-049-2
