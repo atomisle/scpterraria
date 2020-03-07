@@ -25,3 +25,5 @@ We have several planned updates and features to be added to SCP: Terraria.
   - More Music
   - SCP-049 
   - SCP-049-2
+  - SCP-106 Pocket Dimension
+  - SCP-294 Overhaul
